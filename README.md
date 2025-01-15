@@ -16,7 +16,7 @@ Para começar a usar o projeto, siga os passos abaixo:
 Clone o projeto para o seu ambiente de desenvolvimento usando o comando git clone:
 
 ```bash
-  git clone https://github.com/FIAP-G4/api-blog-professores.git
+  git clone https://github.com/ViniciusTeodoro/backend-blog.git
 ```
 
 #### 2. 📂 Entre no diretório do projeto:
@@ -83,9 +83,3 @@ npm run test
 ```bash
 npm run test:coverage
 ```
-
-#### 10. 🎥 Link para vídeo explicativo
-
-[Assista ao vídeo aqui](https://www.youtube.com/watch?v=0ul2U9wRSEA)
-
-![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube&logoColor=white)
